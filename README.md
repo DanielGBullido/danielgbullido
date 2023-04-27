@@ -1,4 +1,4 @@
-# Hola, mi nombre es Daniel Gonzalez 👋
+# Hola, mi nombre es Daniel González 👋
 ### Lead Front-end developer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/danielgbullido/danielgbullido/main/githubTopImg.png)
