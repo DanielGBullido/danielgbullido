@@ -4,7 +4,7 @@
 ![https://github.com/mouredev](https://raw.githubusercontent.com/danielgbullido/danielgbullido/main/githubTopImg.png)
 
 
-¡Hola, soy Dani! Soy un desarrollador que se inició en el campo de la programación de manera profesional en el año 2012, especializándome en Javascript. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
+Soy un desarrollador que se inició en el campo de la programación de manera profesional en el año 2012, especializándome en Javascript. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
 
 Mi experiencia en Javascript abarca desde el uso de marcos como Angular y React hasta la creación de aplicaciones del lado del servidor con Node.js. He desarrollado numerosas aplicaciones web utilizando tecnologías como HTML, CSS y Javascript, siempre asegurándome de brindar una experiencia de usuario excepcional. Además, disfruto compartiendo mis conocimientos con otros desarrolladores, por lo que he dado charlas y participado en comunidades de desarrolladores.
 
@@ -34,7 +34,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Twitch](https://img.shields.io/badge/Twitch-xharalderx-9146FF?style=for-the-badge&logo=type&logoColor=white&labelColor=363636)](https://twitch.tv/xharalderx)
+[![Twitch](https://img.shields.io/badge/Twitch-xharalderx-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=363636)](https://twitch.tv/xharalderx)
 ![Discord](https://img.shields.io/badge/Discord-xharalderx-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=363636)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@danielgbullido-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=363636)](https://twitter.com/danielgbullido)
